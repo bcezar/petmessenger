@@ -10,7 +10,7 @@ const Footer = () => {
               <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
                 <MessageCircle className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">PetBot</span>
+              <span className="text-xl font-bold">PetMessenger</span>
             </div>
             <p className="text-muted-foreground text-sm">
               Automatize o agendamento do seu pet shop com inteligência artificial via WhatsApp.
@@ -61,7 +61,7 @@ const Footer = () => {
         
         <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © 2024 PetBot. Todos os direitos reservados.
+            © 2024 PetMessenger. Todos os direitos reservados.
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
             <a href="#" className="hover:text-foreground transition-colors">Política de Privacidade</a>
