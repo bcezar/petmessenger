@@ -32,9 +32,8 @@ const CTA = () => {
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Button>
             <Button 
-              variant="outline" 
+              variant="secondary" 
               size="xl"
-              className="border-background/20 text-background hover:bg-background/10"
             >
               Falar com Vendas
             </Button>
